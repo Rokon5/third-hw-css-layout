@@ -1,0 +1,23 @@
+
+.itembox{
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 2px;
+}
+.one{
+    float: left;
+    width: 30%;
+background-color: chartreuse;
+}
+.two{
+    float: left;
+    width: 30%;
+background-color: blue;
+}
+.three{
+    float: left;
+    width: 30%;
+background-color: violet;
+}

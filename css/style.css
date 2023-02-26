@@ -1,0 +1,91 @@
+/* .box{
+    width: 100px;
+    height: 100px;
+
+
+}
+
+.blue{
+    background-color: blue;
+    padding: 10px;
+    border: 5px solid red;
+    margin: 50px;
+
+}
+
+.green{
+    background-color: green;
+} */
+
+.header{
+    /* float: left; */
+    height: 100px;
+    background-color: red;
+}
+.container, .container2{
+    overflow: hidden;
+    /* border: 10px solid gray; */
+}
+.blog{
+    float: left;
+    width: 40%;
+    height: 200px;
+    background-color: green;
+
+}
+.contact{
+    float: right;
+    width: 60%;
+    height: 200px;
+    background-color: blue;
+
+}
+
+/* .container2{
+    overflow: hidden;
+} */
+.item{
+    height: 100px;
+    width: 33.33%;
+    float: left;
+}
+.item1{
+    height: 100px;
+    width: 23%;
+    float: left;
+    margin:3px;
+
+}
+.item2{
+    height: 100px;
+    width: 18%;
+    float: left;
+    margin:3px;
+
+}
+
+
+.aqua{
+    background-color: aqua;
+}
+.pink{
+    background-color: pink;
+}
+.gray{
+    background-color: gray;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+
+.footer{
+    height: 100px;
+    background-color: black;
+    /* clear: both; */
+    
+}
+
+
